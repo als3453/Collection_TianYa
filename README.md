@@ -10,6 +10,6 @@
 ## 网盘下载
 github有25mb的大小限制<Br/>
 大于25mb的内容会放在网盘，各位朋友可自取，链接会定期维护<Br/>
-链接：https://pan.quark.cn/s/2257ad866a75<Br/>
+链接：https://pan.quark.cn/s/7d49549f81e1<Br/>
 ## 目录
 ![image](https://github.com/als3453/Collection_TianYa/blob/main/menu_TianYa.jpg)
